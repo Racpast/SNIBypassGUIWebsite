@@ -1,0 +1,13 @@
+{
+  "version": "V4.6",
+  "files": {
+    "AcrylicHosts_All.dat": "https://syliawru.serv00.net/files/AcrylicHosts_All.dat",
+    "SystemHosts_All.dat": "https://syliawru.serv00.net/files/SystemHosts_All.dat",
+    "SwitchData.json": "https://syliawru.serv00.net/files/SwitchData.json",
+    "SNIBypassCrt.crt": "https://syliawru.serv00.net/files/SNIBypassCrt.crt",
+    "nginx.conf": "https://syliawru.serv00.net/files/nginx.conf",
+    "SNIBypassGUI.exe": "https://syliawru.serv00.net/files/SNIBypassGUI.exe"
+  },
+  "release_notes": "  修复一些问题，优化程序性能，完善程序机制，添加部分站点。",
+  "sha256": "f20757b1aa1277f2158c2f7fa9630f895651fde31d88873fc2258ea5debea62b"
+}
