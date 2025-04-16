@@ -1,5 +1,5 @@
 {
-  "version": "V4.6",
+  "version": "V4.7",
   "files": {
     "AcrylicHosts_All.dat": "https://snibypassgui.netlib.re/files/AcrylicHosts_All.dat",
     "SystemHosts_All.dat": "https://snibypassgui.netlib.re/files/SystemHosts_All.dat",
@@ -8,6 +8,6 @@
     "nginx.conf": "https://snibypassgui.netlib.re/files/nginx.conf",
     "SNIBypassGUI.exe": "https://snibypassgui.netlib.re/files/SNIBypassGUI.exe"
   },
-  "release_notes": "  修复一些问题，优化程序性能，完善程序机制，添加部分站点。",
+  "release_notes": "修复一些问题，优化程序性能，完善程序机制，添加部分站点。",
   "sha256": "f20757b1aa1277f2158c2f7fa9630f895651fde31d88873fc2258ea5debea62b"
 }
