@@ -1,0 +1,13 @@
+name: Auto Sync on Push
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  trigger_sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Website Sync
+        run: |
+          curl "https://snibypassgui.netlib.re/sync.php?trigger=${{ secrets.SYNC_TRIGGER_SECRET }}"
